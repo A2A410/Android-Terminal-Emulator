@@ -1,0 +1,9 @@
+# Created By 12tree
+
+*Note:* Fork from Original Terminal Emulator for Android.
+
+This Fork will soon support;
+- Git 
+- Wget 
+- Curl 
+- Busybox (built-in)
